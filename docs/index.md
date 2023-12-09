@@ -1,84 +1,62 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Logan Ray Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Logan Davis Ray
+- **Phone:** (801) 690-0172
+- **Email:** loganray4898@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/logan-ray48](www.linkedin.com/in/logan-ray48)
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+A highly motivated and passionate Computer Science student at Brigham Young University Idaho with an innate ability for learning, problem-solving, and coding. Actively engaged in various societies, including holding leadership roles in the Society of Artificial Intelligence and Association for Computer Machinery, and serving on the Hackathon Committee.
 
 ## Education
+**BS Computer Science | Brigham Young University - Idaho | Rexburg, ID**
+- *Expected:* July 2025
+- Major in Computer Science
+- Minor in Data Science
+- GPA: 3.88
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+## Extra Curricular Activities
+- **Vice President | Association for Computer Machinery | Rexburg, ID**  
+  *September 2022 - Present*
+  
+- **Vice President | Society of Artificial Intelligence | Rexburg, ID**  
+  *April 2022 - Present*
+  
+- **Member | Data Science Society | Rexburg, ID**  
+  *September 2022 - Present*
+  
+- **Organizer | BYU-I Hackathon Committee Fall 2022-2023 | Rexburg, ID**  
+  *Hackathon Coordinator & Organizer:* Bolstered the achievements of 20+ participating teams in 2022 through hands-on support. In 2023, took a central role in the committee's meticulous event organization efforts.
 
-- Full academic scholarship with 4.0 GPA
+- **Attendee | Hackathons | Rexburg, ID | Logan, UT**  
+  *March 2023 - Present*
+  
+  - Secured a 2nd place finish at HackUSU, competing against a field of more than 100 teams, while leveraging a Graph Neural Network for drug discovery.
+  
+  - Attained 4th place in a BYUI competition involving the Wilford Woodruff Papers, demonstrating expertise in matching journal entries to scripture references.
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Skills
+- Python, C#, Streamlit, HTML/CSS, MySQL, JavaScript, Canva, Figma, Microsoft Word and PowerPoint
+- Communication, Problem Solving, Patience, Management, Accountability
 
-- 4.0 Major GPA
+## Projects
+- **Programmer | Data Science Society | Wilford Woodruff Papers | Rexburg, ID**  
+  *September 2023 - Present*  
+  Utilized a Large Language Model to develop an intelligent chatbot capable of answering inquiries related to the Wilford Woodruff Papers, a vast collection comprising over 25,000 published pages.
 
+- **Programmer | Utah State Hackathon | GNN For Drug Discovery | Logan, UT**  
+  *March 2023*  
+  Utilized Graph Neural Network (GNN) technology to conduct in-depth analysis on an extensive database of 220,000 zinc compounds, with the primary goal of identifying potential drug candidates for medicine. Employed PyTorch Geometric to analyze the ZINC chemical database, uncovering potential drug compounds achieving around 65% during brief training sessions, and employed Streamlit for a user-friendly model display.
 
-## Related Experience
+- **Programmer | Artificial Intelligence Society | Salary Prediction | Rexburg, ID**  
+  *November 2022 - December 2022*  
+  Executed testing on six different machine learning models to determine the most accurate predictor of salary data. Created test code to ensure data was thoroughly cleaned and implemented a model with over 50% accuracy.
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+## Work Experience
+- **Lead Teacher Assistant | Brigham Young University, Idaho | Rexburg, ID**  
+  *September 2022 - Present*  
+  Introduction to Computing, Technical Teamwork, Programming Building Blocks. Completed grading and implemented course enhancements for nine classes and three courses, resulting in improved student engagement and performance. Managed and graded the work of a group of 40 students. Developed and maintained effective organizational and communication skills. Experience working in a university setting.
 
 
 
