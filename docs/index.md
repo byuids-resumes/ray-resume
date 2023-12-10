@@ -3,6 +3,7 @@ layout: cv
 title: Logan Ray Resume
 ---
 # Logan Davis Ray
+
 - **Phone:** (801) 690-0172
 - **Email:** loganray4898@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/logan-ray48](www.linkedin.com/in/logan-ray48)
