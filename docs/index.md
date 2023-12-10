@@ -4,14 +4,11 @@ title: Logan Ray Resume
 ---
 # Logan Davis Ray
 
-__this section needs fixing__
 - **Phone:** (801) 690-0172
 - **Email:** loganray4898@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/logan-ray48](www.linkedin.com/in/logan-ray48)
 
 A highly motivated and passionate Computer Science student at Brigham Young University Idaho with an innate ability for learning, problem-solving, and coding. Actively engaged in various societies, including holding leadership roles in the Society of Artificial Intelligence and Association for Computer Machinery, and serving on the Hackathon Committee.
-
-__All section below should be formated the same, some are indented and some not, make sure it matches up__
 
 ## Education
 **BS Computer Science | Brigham Young University - Idaho | Rexburg, ID**
